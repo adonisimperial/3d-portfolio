@@ -50,8 +50,8 @@ const Hero = () => {
             </div>
 
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-              Hi, I’m Adrian, a developer based in Croatia with a passion for
-              code.
+              Hi, I’m Adonis, a software developer based in the Philippines with a passion for
+              web development and delved with LAMP, TALL and MERN stack.
             </p>
             <Button
               className="md:w-80 md:h-16 w-60 h-12"
